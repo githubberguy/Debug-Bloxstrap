@@ -32,7 +32,7 @@ Once installed, Bloxstrap is added to your Start Menu, where you can access the 
 Here's some of the features that Bloxstrap provides over the stock Roblox bootstrapper:
 
 * Persistent file modifications, includes re-adding the old death sound!
-* Support for easy and simple FastFlag editing, no need to mess around with a JSON file.
+* Support for easy and simple FastFlag editing, no need to mess around with a JSON file. 
 * Painless and seamless support for Discord Rich Presence - no auth cookie needed!
 * A customizable launcher look
 * Lets you see what region your current server is located in
