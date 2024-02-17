@@ -1,3 +1,10 @@
+-WARNING THIS BUILD IS NOT THE ORIGINAL, HAS THE LATEST 2.6.0
+BETA, ITS NOT FULL. THE SOURCE WAS ALREADY LEAKED BY A DEV!
+
+
+
+
+
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="48"/> Bloxstrap
 [![License](https://img.shields.io/github/license/pizzaboxer/bloxstrap)](https://github.com/pizzaboxer/bloxstrap/blob/main/LICENSE)
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/pizzaboxer/bloxstrap/ci.yml?branch=main&label=builds)](https://github.com/pizzaboxer/bloxstrap/actions)
