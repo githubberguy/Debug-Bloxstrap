@@ -1,5 +1,5 @@
--WARNING THIS BUILD IS NOT THE ORIGINAL, HAS THE LATEST 2.6.0
-BETA, ITS NOT FULL. THE SOURCE WAS ALREADY LEAKED BY A DEV!
+- 2.5.5 :|
+- 2.6.0 rare version :)
 
 
 
@@ -20,6 +20,8 @@ This is a drop-in replacement for the standard Roblox bootstrapper, providing ad
 Running into a problem or need help with something? [Check out the Wiki](https://github.com/pizzaboxer/bloxstrap/wiki). If you can't find anything, or would like to suggest something, please [submit an issue](https://github.com/pizzaboxer/bloxstrap/issues) or report it in our [Discord server](https://discord.gg/nKjV3mGq6R).
  
 Bloxstrap is only supported for PCs running Windows.
+
+And no there will never be android, ios, etc. versions.
  
  ## Installing
 Download the [latest release of Bloxstrap](https://github.com/pizzaboxer/bloxstrap/releases/latest), and run it. Configure your preferences if needed, and install. That's about it!
@@ -43,6 +45,7 @@ Here's some of the features that Bloxstrap provides over the stock Roblox bootst
 * A customizable launcher look
 * Lets you see what region your current server is located in
 * Lets you have multiple Roblox game instances open simultaneously
+* Lets you change the rendering mode, but unstable
 
 All the available features are browsable through the Bloxstrap menu.
 
